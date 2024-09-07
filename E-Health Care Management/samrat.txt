@@ -1,0 +1,13 @@
+Date of admission: 28/07/2022 07:51:05
+Name : ANkit pratap samrat
+Address : jagatpur
+Contact Number : 9876546565
+Age : 34
+Sex : male
+Blood Group : a-
+Any Major disease suffered earlier : no
+Patient ID : 9876
+
+********************************************************************
+
+

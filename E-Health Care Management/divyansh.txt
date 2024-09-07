@@ -1,0 +1,21 @@
+Date of admission: 27/07/2022 08:23:04
+Name : Divyansh upadhyay
+Address : baraini mirzapur
+Contact Number : 8897458762
+Age : 45
+Sex : female
+Blood Group : o+
+Any Major disease suffered earlier : bhagandar
+Patient ID : 420
+
+********************************************************************
+
+
+Description of the day:27/07/2022 08:24:42
+Doctor appointed: Dr. Ankit pathak Dr.Ram prakash
+Symptoms : bleeding from anal region
+Diagnosis : constipation
+Medicines : pyaricetamol,eno
+Addmission Required? : yes critical condition
+*************************************************************************
+
